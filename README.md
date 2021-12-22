@@ -6,10 +6,10 @@
 - 🙍🏻‍♂️ Meu nome é Dã Yaweh / My name is Dã Yaweh
 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=da-yaweh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-yaweh&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: inline_block"align="center">
+  <a href="https://github.com/da-yaweh">
+  <img height="180em" width="1000"src="https://github-readme-stats.vercel.app/api?username=da-yaweh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-yaweh&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
